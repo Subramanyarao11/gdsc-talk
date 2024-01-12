@@ -27,8 +27,8 @@ Subramanya Rao
 <div class="abs-bl mx-14 my-12 flex">
   <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/logo_QTdLJEf.jpg" class="h-8 mt-2">
   <div class="ml-3 flex flex-col text-left">
-    <div><b>Frontend</b> Workshop @ GDSC, RNSIT</div>
-    <div class="text-sm opacity-50">Jan. 11th, 2024</div>
+    <div><b>Web Development</b> Workshop @ GDSC, RNSIT</div>
+    <div class="text-sm opacity-50">Jan. 13th, 2024</div>
   </div>
 </div>
 
@@ -82,7 +82,9 @@ hideInToc: true
 
 > The Document Object Model ( DOM ) defines the logical structure of documents and how a document is accessed and manipulated. It views an HTML document as a tree of nodes, where a node represents an HTML element.
 
-With the `DOM` , JavaScript can access and change all the elements of an HTML document.
+<div v-click class="my-4">
+With the <code>DOM</code> , JavaScript can access and change all the elements of an HTML document.
+</div>
 
 <div v-click class="my-6 text-2xl underline underline-offset-6 decoration-dotted">Visual Representation of DOM</div>
 
@@ -121,7 +123,7 @@ JavaScript plays a crucial role in enhancing the <span class="font-bold text-gra
 
 <blockquote v-click>
 <div class="text-base">
-Let's see a practical example on DOM Manipulation & Event Handling by building a Interactive and Dynamic Components
+Let's see a practical example on DOM Manipulation & Event Handling by building Interactive and Dynamic Components
 </div>
 </blockquote>
 
