@@ -95,7 +95,7 @@ With the <code>DOM</code> , JavaScript can access and change all the elements of
 </div>
 
 ---
-layout: content
+layout: full
 ---
 
 # Why JavaScript ?
@@ -318,21 +318,15 @@ const openModalBtn = document.getElementById('openModalBtn');
 const modal = document.getElementById('myModal');
 const closeModalBtn = document.getElementById('closeModalBtn');
 
-// Open the modal
 openModalBtn.addEventListener('click', function() {
   modal.style.display = 'block';
 });
 
-// Close the modal when clicking the close button or outside the modal
+
 closeModalBtn.addEventListener('click', function() {
   modal.style.display = 'none';
 });
 
-window.addEventListener('click', function(event) {
-  if (event.target === modal) {
-    modal.style.display = 'none';
-  }
-});
 
 ```
 ---
@@ -341,6 +335,19 @@ hideInToc: false
 
 # Comparing DOM Trees
 Check the difference in DOM tree before and after DOM manipulation
+
+
+<div class="grid grid-cols-2 gap-x-4 h-full">
+<v-clicks :every='1'>
+<div>
+ <img class="h-96" src="/img1.png">
+</div>
+<div>
+ <img class="h-96" src="/img2.png">
+</div>
+</v-clicks>
+</div>
+
 
 ---
 hideInToc: false
@@ -416,6 +423,8 @@ Few more resources to learn more about DOM Manipulation and Event Handling
 [Introduction to Events](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events)
 
 [Javascipt Event Handlers](https://www.freecodecamp.org/news/javascript-event-handlers/)
+
+[Projects on DOM and Event Handling](https://www.javascripttutorial.net/javascript-dom/)
 
 
 ---
