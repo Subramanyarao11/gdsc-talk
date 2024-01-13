@@ -48,30 +48,6 @@ Subramanya Rao
 
 ---
 hideInToc: true
-layout: intro
----
-
-# Subramanya Rao
-
-<div class="leading-8 opacity-80">
-Core team member of GDSC RNSIT<br>
-Full Stack Developer at WeFrameTech<br>
-A fanatical Javascript Developer<br>
-</div>
-
-<div class="my-10 grid grid-cols-[40px,1fr] w-min gap-y-4">
-  <ri-github-line class="opacity-50"/>
-  <div><a href="https://github.com/Subramanyarao11" target="_blank">subramanyarao11</a></div>
-  <ri-twitter-line class="opacity-50"/>
-  <div><a href="https://twitter.com/Subramanya11rao" target="_blank">subramanya11rao</a></div>
-  <ri-user-3-line class="opacity-50"/>
-  <div><a href="https://subramanyarao.hashnode.dev/" target="_blank">subramanyarao</a></div>
-</div>
-
-
-
----
-hideInToc: true
 ---
 
 # Table of Content
