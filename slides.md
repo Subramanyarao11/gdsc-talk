@@ -1,10 +1,12 @@
 ---
 layout: cover
-download: https://antfu.me/talks/2021-04-29
+download: https://github.com/Subramanyarao11/gdsc-talk
 highlighter: shiki`
 title: DOM & Event Handling in JS
 coverAuthor: Subramanya Rao
 titleTemplate: '%s - Subramanya Rao'
+exportFilename: gdsc-dom
+favicon: /favicon.ico
 hideInToc: true
 info: |
  <h2>DOM Manipulation & Event Handling</h2>
@@ -12,8 +14,8 @@ info: |
 
   [Subramanya Rao](https://github.com/Subramanyarao11) at [GDSC RNSIT](https://gdsc.community.dev/rns-institute-of-technology-bengaluru/)
 
-  - [Source code](https://github.com/antfu/talks/tree/master/2021-04-29)
-  - [Slides](https://antfu.me/talks/2021-04-29)
+  - [Source code](https://github.com/Subramanyarao11/gdsc-talk)
+#   - [Slides](https://github.com/Subramanyarao11/gdsc-talk)
 ---
 
 # DOM Manipulation and Event Handling
@@ -33,14 +35,14 @@ Subramanya Rao
 </div>
 
 <div class="abs-br mx-14 my-12 flex gap-6">
-  <a href="https://github.com/webup/openfunction-talks/tree/main/202-node-async" target="_blank" alt="GitHub"
+  <a href="https://github.com/Subramanyarao11/gdsc-talk" target="_blank" alt="GitHub"
     class="text-xl icon-btn opacity-50 !border-none !hover:text-white">
     <carbon-logo-github />
   </a>
-  <a href="https://github.com/webup/openfunction-talks/raw/main/202-node-async/202-node-async.pdf" target="_blank" alt="GitHub"
+  <!-- <a href="https://github.com/webup/openfunction-talks/raw/main/202-node-async/202-node-async.pdf" target="_blank" alt="GitHub"
     class="text-xl icon-btn opacity-50 !border-none !hover:text-white">
     <carbon-download />
-  </a>
+  </a> -->
 </div>
 
 
